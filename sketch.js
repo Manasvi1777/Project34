@@ -40,7 +40,7 @@ function draw() {
   background(bg);
   Engine.update(engine);
   ground.display();
-  ground2.display();
+  //ground2.display();
 
   hero.display();
   
